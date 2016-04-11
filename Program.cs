@@ -11,7 +11,7 @@ namespace Meeting_Minutes
     {
         static void Main(string[] args)
         {
-            //SO CONVOLUTED, OMG   Im sure there was a cleaner way to do this, I started with these stupid nested cases and couldn't stop :(
+            //SO CONVOLUTED, OMG  Im sure there was a cleaner way to do this, I started with these stupid nested cases and couldn't stop :(
 
             Dictionary<string, string> teamMember = new Dictionary<string, string>();
             teamMember.Add("Arnold Palmer", "Marketing");
